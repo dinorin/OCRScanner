@@ -1,4 +1,6 @@
 .claude/
+*.jks
+*.keystore
 *.iml
 .gradle
 /local.properties
