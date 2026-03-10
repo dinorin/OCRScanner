@@ -19,7 +19,10 @@ Android app quét và nhận diện chữ theo thời gian thực bằng camera,
 
 | Camera | Chụp ảnh | Chọn vùng |
 |--------|----------|-----------|
-| *(camera view với chip kết quả)* | *(ảnh tĩnh với bounding box)* | *(drag select rectangle)* |
+| <img width="372" height="791" alt="image" src="https://github.com/user-attachments/assets/ac3ca35f-72d3-40eb-b8b1-b56e71bba3e7" />
+ | <img width="376" height="783" alt="image" src="https://github.com/user-attachments/assets/4dc58d13-0f4f-49e4-b3bb-39611237a3a4" />
+ | <img width="379" height="733" alt="image" src="https://github.com/user-attachments/assets/e3791e9e-77eb-4d48-85b6-4498cb88b3d1" />
+ |
 
 ## Tech stack
 
